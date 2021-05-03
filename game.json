@@ -357,6 +357,132 @@
         "name": "Sprites\\player_ready_green.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/UI/PNG/green_button04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\UI\\PNG\\green_button04.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/UI/PNG/green_button01.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\UI\\PNG\\green_button01.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/UI/PNG/green_button02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\UI\\PNG\\green_button02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/UI/PNG/blue_button00.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\UI\\PNG\\blue_button00.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/UI/PNG/blue_button02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\UI\\PNG\\blue_button02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/UI/PNG/blue_button03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\UI\\PNG\\blue_button03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/UI/PNG/green_sliderRight.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\UI\\PNG\\green_sliderRight.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/UI/PNG/green_sliderRight-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\UI\\PNG\\green_sliderRight-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "Audio/select_001.ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Audio\\select_001.ogg",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/UI/PNG/grey_sliderRight.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\UI\\PNG\\grey_sliderRight.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/UI/PNG/green_button03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\UI\\PNG\\green_button03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/UI/PNG/red_button02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\UI\\PNG\\red_button02.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/UI/PNG/grey_button03.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\UI\\PNG\\grey_button03.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/UI/PNG/blue_button04.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\UI\\PNG\\blue_button04.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -370,9 +496,9 @@
       "variables": [],
       "behaviors": [
         {
-          "ignoreDefaultControls": true,
           "name": "PlatformerObject",
           "type": "PlatformBehavior::PlatformerObjectBehavior",
+          "ignoreDefaultControls": true,
           "acceleration": 1500,
           "canGrabPlatforms": false,
           "deceleration": 1500,
@@ -655,36 +781,6 @@
       "value": "None"
     },
     {
-      "name": "KeyBlue",
-      "type": "string",
-      "value": ""
-    },
-    {
-      "name": "KeyRed",
-      "type": "string",
-      "value": ""
-    },
-    {
-      "name": "KeyGreen",
-      "type": "string",
-      "value": ""
-    },
-    {
-      "name": "KeyLeft",
-      "type": "string",
-      "value": ""
-    },
-    {
-      "name": "KeyRight",
-      "type": "string",
-      "value": ""
-    },
-    {
-      "name": "KeyJump",
-      "type": "string",
-      "value": ""
-    },
-    {
       "name": "StartUpCheck",
       "type": "boolean",
       "value": false
@@ -692,7 +788,52 @@
     {
       "name": "StartUpScene",
       "type": "string",
-      "value": "DemoBirdsong"
+      "value": "MainMenu"
+    },
+    {
+      "name": "KeyUp",
+      "type": "string",
+      "value": "w"
+    },
+    {
+      "name": "KeyDown",
+      "type": "string",
+      "value": "s"
+    },
+    {
+      "name": "KeyLeft",
+      "type": "string",
+      "value": "a"
+    },
+    {
+      "name": "KeyRight",
+      "type": "string",
+      "value": "d"
+    },
+    {
+      "name": "KeyJump",
+      "type": "string",
+      "value": "Space"
+    },
+    {
+      "name": "KeyConfirm",
+      "type": "string",
+      "value": "e"
+    },
+    {
+      "name": "KeyBlue",
+      "type": "string",
+      "value": "Num1"
+    },
+    {
+      "name": "KeyRed",
+      "type": "string",
+      "value": "Num2"
+    },
+    {
+      "name": "KeyGreen",
+      "type": "string",
+      "value": "Num3"
     }
   ],
   "layouts": [
@@ -721,7 +862,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": true,
-        "zoomFactor": 0.5399999999999996
+        "zoomFactor": 0.5199999999999996
       },
       "objectsGroups": [],
       "variables": [
@@ -825,7 +966,99 @@
               "conditions": [
                 {
                   "type": {
-                    "inverted": true,
+                    "inverted": false,
+                    "value": "GroupExists"
+                  },
+                  "parameters": [
+                    "\"KeyControls\"",
+                    "\"KeyUp\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "LireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"KeyControls\"",
+                    "\"KeyUp\"",
+                    "",
+                    "TempKeyUp"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobalTxt"
+                  },
+                  "parameters": [
+                    "KeyUp",
+                    "=",
+                    "VariableString(TempKeyUp)"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "GroupExists"
+                  },
+                  "parameters": [
+                    "\"KeyControls\"",
+                    "\"KeyDown\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "LireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"KeyControls\"",
+                    "\"KeyDown\"",
+                    "",
+                    "TempKeyDown"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobalTxt"
+                  },
+                  "parameters": [
+                    "KeyDown",
+                    "=",
+                    "VariableString(TempKeyDown)"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "GroupExists"
                   },
                   "parameters": [
@@ -839,12 +1072,25 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "EcrireFichierTxt"
+                    "value": "LireFichierTxt"
                   },
                   "parameters": [
                     "\"KeyControls\"",
                     "\"KeyLeft\"",
-                    "\"a\""
+                    "",
+                    "TempKeyLeft"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobalTxt"
+                  },
+                  "parameters": [
+                    "KeyLeft",
+                    "=",
+                    "VariableString(TempKeyLeft)"
                   ],
                   "subInstructions": []
                 }
@@ -858,7 +1104,7 @@
               "conditions": [
                 {
                   "type": {
-                    "inverted": true,
+                    "inverted": false,
                     "value": "GroupExists"
                   },
                   "parameters": [
@@ -872,12 +1118,25 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "EcrireFichierTxt"
+                    "value": "LireFichierTxt"
                   },
                   "parameters": [
                     "\"KeyControls\"",
                     "\"KeyRight\"",
-                    "\"d\""
+                    "",
+                    "TempKeyRight"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobalTxt"
+                  },
+                  "parameters": [
+                    "KeyRight",
+                    "=",
+                    "VariableString(TempKeyRight)"
                   ],
                   "subInstructions": []
                 }
@@ -891,7 +1150,7 @@
               "conditions": [
                 {
                   "type": {
-                    "inverted": true,
+                    "inverted": false,
                     "value": "GroupExists"
                   },
                   "parameters": [
@@ -905,12 +1164,25 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "EcrireFichierTxt"
+                    "value": "LireFichierTxt"
                   },
                   "parameters": [
                     "\"KeyControls\"",
                     "\"KeyJump\"",
-                    "\"Space\""
+                    "",
+                    "TempKeyJump"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobalTxt"
+                  },
+                  "parameters": [
+                    "KeyJump",
+                    "=",
+                    "VariableString(TempKeyJump)"
                   ],
                   "subInstructions": []
                 }
@@ -924,7 +1196,7 @@
               "conditions": [
                 {
                   "type": {
-                    "inverted": true,
+                    "inverted": false,
                     "value": "GroupExists"
                   },
                   "parameters": [
@@ -938,12 +1210,25 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "EcrireFichierTxt"
+                    "value": "LireFichierTxt"
                   },
                   "parameters": [
                     "\"KeyControls\"",
                     "\"KeyBlue\"",
-                    "\"Num1\""
+                    "",
+                    "TempKeyBlue"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobalTxt"
+                  },
+                  "parameters": [
+                    "KeyBlue",
+                    "=",
+                    "VariableString(TempKeyBlue)"
                   ],
                   "subInstructions": []
                 }
@@ -957,7 +1242,7 @@
               "conditions": [
                 {
                   "type": {
-                    "inverted": true,
+                    "inverted": false,
                     "value": "GroupExists"
                   },
                   "parameters": [
@@ -971,12 +1256,25 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "EcrireFichierTxt"
+                    "value": "LireFichierTxt"
                   },
                   "parameters": [
                     "\"KeyControls\"",
                     "\"KeyRed\"",
-                    "\"Num2\""
+                    "",
+                    "TempKeyRed"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobalTxt"
+                  },
+                  "parameters": [
+                    "KeyRed",
+                    "=",
+                    "VariableString(TempKeyRed)"
                   ],
                   "subInstructions": []
                 }
@@ -990,7 +1288,7 @@
               "conditions": [
                 {
                   "type": {
-                    "inverted": true,
+                    "inverted": false,
                     "value": "GroupExists"
                   },
                   "parameters": [
@@ -1004,12 +1302,25 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "EcrireFichierTxt"
+                    "value": "LireFichierTxt"
                   },
                   "parameters": [
                     "\"KeyControls\"",
                     "\"KeyGreen\"",
-                    "\"Num3\""
+                    "",
+                    "TempKeyGreen"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarGlobalTxt"
+                  },
+                  "parameters": [
+                    "KeyGreen",
+                    "=",
+                    "VariableString(TempKeyGreen)"
                   ],
                   "subInstructions": []
                 }
@@ -1061,207 +1372,9 @@
             {
               "type": {
                 "inverted": false,
-                "value": "LireFichierTxt"
+                "value": "PopScene"
               },
               "parameters": [
-                "\"KeyControls\"",
-                "\"KeyLeft\"",
-                "",
-                "TempKeyLeft"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ModVarGlobalTxt"
-              },
-              "parameters": [
-                "KeyLeft",
-                "=",
-                "VariableString(TempKeyLeft)"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "LireFichierTxt"
-              },
-              "parameters": [
-                "\"KeyControls\"",
-                "\"KeyRight\"",
-                "",
-                "TempKeyRight"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ModVarGlobalTxt"
-              },
-              "parameters": [
-                "KeyRight",
-                "=",
-                "VariableString(TempKeyRight)"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "LireFichierTxt"
-              },
-              "parameters": [
-                "\"KeyControls\"",
-                "\"KeyJump\"",
-                "",
-                "TempKeyJump"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ModVarGlobalTxt"
-              },
-              "parameters": [
-                "KeyJump",
-                "=",
-                "VariableString(TempKeyJump)"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "LireFichierTxt"
-              },
-              "parameters": [
-                "\"KeyControls\"",
-                "\"KeyBlue\"",
-                "",
-                "TempKeyBlue"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ModVarGlobalTxt"
-              },
-              "parameters": [
-                "KeyBlue",
-                "=",
-                "VariableString(TempKeyBlue)"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "LireFichierTxt"
-              },
-              "parameters": [
-                "\"KeyControls\"",
-                "\"KeyRed\"",
-                "",
-                "TempKeyRed"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ModVarGlobalTxt"
-              },
-              "parameters": [
-                "KeyRed",
-                "=",
-                "VariableString(TempKeyRed)"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "LireFichierTxt"
-              },
-              "parameters": [
-                "\"KeyControls\"",
-                "\"KeyGreen\"",
-                "",
-                "TempKeyGreen"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ModVarGlobalTxt"
-              },
-              "parameters": [
-                "KeyGreen",
-                "=",
-                "VariableString(TempKeyGreen)"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "TextObject::String"
-              },
-              "parameters": [
-                "ConfigStatus",
-                "=",
-                "\"KeyLoad Complete\""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "TextObject::String"
-              },
-              "parameters": [
-                "ConfigStatus",
-                "=",
-                "\"KeyLoad Complete\""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"DemoBirdsong\"",
-                ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "GlobaleVariableString(StartUpScene)",
                 ""
               ],
               "subInstructions": []
@@ -1280,6 +1393,884 @@
           "name": "",
           "visibility": true,
           "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        }
+      ]
+    },
+    {
+      "b": 155,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "MainMenu",
+      "name": "MainMenu",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 155,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 155,
+      "uiSettings": {
+        "grid": true,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 0.7599999999999998
+      },
+      "objectsGroups": [],
+      "variables": [
+        {
+          "name": "OptSelect",
+          "type": "string",
+          "value": "3"
+        }
+      ],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Title",
+          "persistentUuid": "9f216c0c-6788-4ae2-a89c-888f0a253418",
+          "width": 0,
+          "x": 160,
+          "y": 32,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Subtitle",
+          "persistentUuid": "27681e61-773d-4e09-b364-76f1862b74d0",
+          "width": 0,
+          "x": 256,
+          "y": 128,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Opt1",
+          "persistentUuid": "0722ac26-8537-4564-882f-d927e36b411d",
+          "width": 0,
+          "x": 352,
+          "y": 256,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Opt2",
+          "persistentUuid": "8c543b75-cff9-4ffe-9ddd-9433d616be1f",
+          "width": 0,
+          "x": 352,
+          "y": 320,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Opt3",
+          "persistentUuid": "e853f8ae-b6ba-41dc-8b04-2de85cd25a9c",
+          "width": 0,
+          "x": 352,
+          "y": 416,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Cursor",
+          "persistentUuid": "330e576c-c5df-4d56-813e-4fc804efac71",
+          "width": 0,
+          "x": 288,
+          "y": 256,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "HelpUp",
+          "persistentUuid": "93511f64-dfff-4cb2-9f63-68cf340f0aa3",
+          "width": 0,
+          "x": 32,
+          "y": 480,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "HelpDown",
+          "persistentUuid": "2544f91a-1ea2-4cb0-ae67-33c3686d773a",
+          "width": 0,
+          "x": 32,
+          "y": 512,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "HelpSelect",
+          "persistentUuid": "90523617-9cb9-40ab-9dc3-8ab9f787a033",
+          "width": 0,
+          "x": 32,
+          "y": 544,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Subtitle",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "a game by Seth Veeper",
+          "font": "",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Title",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Plague Forest",
+          "font": "",
+          "characterSize": 80,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Opt1",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Start",
+          "font": "",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Opt2",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Keybind",
+          "font": "",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Opt3",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Exit",
+          "font": "",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "HelpUp",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Up: ?",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "HelpSelect",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Select: ?",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "HelpDown",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Down: ?",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "name": "Cursor",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\UI\\PNG\\grey_sliderRight.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "StartUpCheck",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"InitialConfig\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "HelpUp",
+                "=",
+                "\"Up: \" + GlobalVariableString(KeyUp)"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "HelpDown",
+                "=",
+                "\"Down: \" + GlobalVariableString(KeyDown)"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "HelpSelect",
+                "=",
+                "\"Select: \" + GlobalVariableString(KeyRight)"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "GlobalVariableString(KeyUp)"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "OptSelect",
+                ">",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "OptSelect",
+                "-",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Audio\\select_001.ogg",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "GlobalVariableString(KeyDown)"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "OptSelect",
+                "<",
+                "3"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "OptSelect",
+                "+",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "Audio\\select_001.ogg",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "OptSelect",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreY"
+              },
+              "parameters": [
+                "Cursor",
+                "=",
+                "Opt1.Y()"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyFromTextReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "GlobalVariableString(KeyRight)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"DemoBirdsong\"",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "OptSelect",
+                "=",
+                "2"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreY"
+              },
+              "parameters": [
+                "Cursor",
+                "=",
+                "Opt2.Y()"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyFromTextReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "GlobalVariableString(KeyRight)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"KeybindMenu\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "OptSelect",
+                "=",
+                "3"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreY"
+              },
+              "parameters": [
+                "Cursor",
+                "=",
+                "Opt3.Y()"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyFromTextReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "GlobalVariableString(KeyRight)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Quit"
+                  },
+                  "parameters": [
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 8058216,
+          "ambientLightColorG": 7014464,
+          "ambientLightColorR": 7677320,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            },
             {
               "defaultSize": true,
               "defaultViewport": true,
@@ -2548,24 +3539,11 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Scene"
+                "value": "PushScene"
               },
               "parameters": [
                 "",
-                "\"InitialConfig\"",
-                ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ModVarGlobalTxt"
-              },
-              "parameters": [
-                "StartUpScene",
-                "=",
-                "CurrentSceneName()"
+                "\"InitialConfig\""
               ],
               "subInstructions": []
             }
@@ -2580,190 +3558,44 @@
             {
               "type": {
                 "inverted": false,
-                "value": "KeyFromTextPressed"
-              },
-              "parameters": [
-                "",
-                "GlobalVariableString(KeyBlue)"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "BuiltinCommonInstructions::Once"
+                "value": "BuiltinCommonInstructions::Or"
               },
               "parameters": [],
-              "subInstructions": []
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "GlobalVariableString(KeyJump)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "GlobalVariableString(KeyUp)"
+                  ],
+                  "subInstructions": []
+                }
+              ]
             }
           ],
           "actions": [
             {
               "type": {
                 "inverted": false,
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "Audio\\glass_006.ogg",
-                "",
-                "",
-                ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "SetAnimationName"
+                "value": "PlatformBehavior::SimulateJumpKey"
               },
               "parameters": [
                 "Player",
-                "\"Blue\""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ModVarGlobalTxt"
-              },
-              "parameters": [
-                "PlayerNote",
-                "=",
-                "\"B\""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "KeyFromTextPressed"
-              },
-              "parameters": [
-                "",
-                "GlobalVariableString(KeyRed)"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": [],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "Audio\\glass_005.ogg",
-                "",
-                "",
-                ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Player",
-                "\"Red\""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ModVarGlobalTxt"
-              },
-              "parameters": [
-                "PlayerNote",
-                "=",
-                "\"R\""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "KeyFromTextPressed"
-              },
-              "parameters": [
-                "",
-                "GlobalVariableString(KeyGreen)"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": [],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlaySound"
-              },
-              "parameters": [
-                "",
-                "Audio\\glass_001.ogg",
-                "",
-                "",
-                ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Player",
-                "\"Green\""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "ModVarGlobalTxt"
-              },
-              "parameters": [
-                "PlayerNote",
-                "=",
-                "\"G\""
+                "PlatformerObject"
               ],
               "subInstructions": []
             }
@@ -2846,8 +3678,27 @@
               },
               "parameters": [
                 "",
-                "GlobalVariableString(KeyJump)"
+                "GlobalVariableString(KeyBlue)"
               ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "SoundPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
               "subInstructions": []
             }
           ],
@@ -2855,11 +3706,194 @@
             {
               "type": {
                 "inverted": false,
-                "value": "PlatformBehavior::SimulateJumpKey"
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Audio\\glass_006.ogg",
+                "1",
+                "",
+                "",
+                "-2"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
               },
               "parameters": [
                 "Player",
-                "PlatformerObject"
+                "\"Blue\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobalTxt"
+              },
+              "parameters": [
+                "PlayerNote",
+                "=",
+                "\"B\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "GlobalVariableString(KeyRed)"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "SoundPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Audio\\glass_005.ogg",
+                "1",
+                "",
+                "",
+                "-2"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"Red\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobalTxt"
+              },
+              "parameters": [
+                "PlayerNote",
+                "=",
+                "\"R\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyFromTextPressed"
+              },
+              "parameters": [
+                "",
+                "GlobalVariableString(KeyGreen)"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "SoundPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Audio\\glass_001.ogg",
+                "1",
+                "",
+                "",
+                "-2"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"Green\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarGlobalTxt"
+              },
+              "parameters": [
+                "PlayerNote",
+                "=",
+                "\"G\""
               ],
               "subInstructions": []
             }
@@ -2889,44 +3923,13 @@
             {
               "type": {
                 "inverted": false,
-                "value": "BuiltinCommonInstructions::Or"
+                "value": "SoundStopped"
               },
-              "parameters": [],
-              "subInstructions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "KeyFromTextReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "GlobalVariableString(KeyBlue)"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "KeyFromTextReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "GlobalVariableString(KeyRed)"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "KeyFromTextReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "GlobalVariableString(KeyGreen)"
-                  ],
-                  "subInstructions": []
-                }
-              ]
+              "parameters": [
+                "",
+                "1"
+              ],
+              "subInstructions": []
             }
           ],
           "actions": [
@@ -3040,6 +4043,14 @@
                     "Solved",
                     "True"
                   ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
                   "subInstructions": []
                 }
               ],
