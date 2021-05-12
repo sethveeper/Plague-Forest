@@ -654,6 +654,400 @@
         "name": "Sprites\\flower_pink.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/ForestPack/Tileset/Stretches/ledge_grass.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\ForestPack\\Tileset\\Stretches\\ledge_grass.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/ForestPack/Tileset/Stretches/ledge_ruins.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\ForestPack\\Tileset\\Stretches\\ledge_ruins.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/ForestPack/Tileset/Stretches/ledge_stone.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\ForestPack\\Tileset\\Stretches\\ledge_stone.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "Fonts/Amatic_SC/AmaticSC-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Fonts\\Amatic_SC\\AmaticSC-Regular.ttf",
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/ForestPack/BG1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\ForestPack\\BG1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/ForestPack/BG2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\ForestPack\\BG2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/ForestPack/BG3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\ForestPack\\BG3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/ForestPack/BG1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\ForestPack\\BG1-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/ForestPack/BG2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\ForestPack\\BG2-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/ForestPack/BG3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\ForestPack\\BG3-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/ForestPack/Tileset/Tileset.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\ForestPack\\Tileset\\Tileset.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\idle.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/walk.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\walk.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/Idle-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\Idle-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/walk_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\walk_0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\walk_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/r_walk_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\r_walk_0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/r_walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\r_walk_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/Walk-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\Walk-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/Walk-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\Walk-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/r_idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\r_idle.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/r_fall.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\r_fall.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/r_jump.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\r_jump.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/r_ladder_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\r_ladder_0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/r_ladder_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\r_ladder_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/r_walk-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\r_walk-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Environment/ladder.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Environment\\ladder.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/l_idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\l_idle.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/R_Idle-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\R_Idle-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/L_Idle-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\L_Idle-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/L_Idle-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\L_Idle-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/l_walk_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\l_walk_0.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/l_walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\l_walk_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/l_jump.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\l_jump.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/l_fall.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\l_fall.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/l_ladder_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\l_ladder_0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/l_ladder_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\l_ladder_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/r_sing_blue.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\r_sing_blue.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/l_sing_blue.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\l_sing_blue.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/r_sing_red.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\r_sing_red.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/l_sing_red.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\l_sing_red.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/r_sing_green.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\r_sing_green.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Sprites/Player/l_sing_green.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sprites\\Player\\l_sing_green.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -669,6 +1063,11 @@
           "name": "Jump",
           "type": "string",
           "value": "0"
+        },
+        {
+          "name": "Dir",
+          "type": "string",
+          "value": "R_"
         }
       ],
       "behaviors": [
@@ -693,16 +1092,16 @@
       ],
       "animations": [
         {
-          "name": "Idle",
+          "name": "R_Idle",
           "useMultipleDirections": false,
           "directions": [
             {
               "looping": false,
-              "timeBetweenFrames": 0.08,
+              "timeBetweenFrames": 0.07999999821186066,
               "sprites": [
                 {
-                  "hasCustomCollisionMask": true,
-                  "image": "Sprites\\player_idle.png",
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\r_idle.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -715,33 +1114,343 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 32,
-                        "y": 32
-                      },
-                      {
-                        "x": 0,
-                        "y": 32
-                      },
-                      {
-                        "x": 0,
-                        "y": 95
-                      },
-                      {
-                        "x": 32,
-                        "y": 95
-                      }
-                    ]
-                  ]
+                  "customCollisionMask": []
                 }
               ]
             }
           ]
         },
         {
-          "name": "Blue",
+          "name": "L_Idle",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\l_idle.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "R_Walk",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.20000000298023224,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\r_walk_0.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\r_walk-1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "L_Walk",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.20000000298023224,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\l_walk_0.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\l_walk_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "R_Ladder",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.10000000149011612,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\r_ladder_0.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\r_ladder_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "L_Ladder",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "timeBetweenFrames": 0.10000000149011612,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\l_ladder_0.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\l_ladder_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "R_Jump",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.07999999821186066,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\r_jump.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "L_Jump",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\l_jump.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "R_Fall",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\r_fall.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "L_Fall",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\l_fall.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "R_Blue",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -750,7 +1459,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Sprites\\player_note_blue.png",
+                  "image": "Sprites\\Player\\r_sing_blue.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -789,7 +1498,36 @@
           ]
         },
         {
-          "name": "Red",
+          "name": "L_Blue",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\l_sing_blue.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "R_Red",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -798,7 +1536,7 @@
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "Sprites\\player_note_red.png",
+                  "image": "Sprites\\Player\\r_sing_red.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -837,7 +1575,7 @@
           ]
         },
         {
-          "name": "Green",
+          "name": "L_Red",
           "useMultipleDirections": false,
           "directions": [
             {
@@ -845,8 +1583,8 @@
               "timeBetweenFrames": 0.08,
               "sprites": [
                 {
-                  "hasCustomCollisionMask": true,
-                  "image": "Sprites\\player_note_green.png",
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\l_sing_red.png",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
@@ -859,26 +1597,65 @@
                     "x": 0,
                     "y": 0
                   },
-                  "customCollisionMask": [
-                    [
-                      {
-                        "x": 32,
-                        "y": 32
-                      },
-                      {
-                        "x": 0,
-                        "y": 32
-                      },
-                      {
-                        "x": 0,
-                        "y": 95
-                      },
-                      {
-                        "x": 32,
-                        "y": 95
-                      }
-                    ]
-                  ]
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "R_Green",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\r_sing_green.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "L_Green",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Sprites\\Player\\l_sing_green.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
                 }
               ]
             }
@@ -903,32 +1680,6 @@
           "yGrabOffset": 0
         }
       ]
-    },
-    {
-      "height": 32,
-      "name": "Birdsong",
-      "tags": "",
-      "texture": "Sprites\\transparent.png",
-      "type": "TiledSpriteObject::TiledSprite",
-      "width": 32,
-      "variables": [
-        {
-          "name": "Notes",
-          "type": "string",
-          "value": "NoQuotes,CommaSeperated"
-        },
-        {
-          "name": "Index",
-          "type": "number",
-          "value": 0
-        },
-        {
-          "name": "Solved",
-          "type": "boolean",
-          "value": false
-        }
-      ],
-      "behaviors": []
     },
     {
       "bold": false,
@@ -984,6 +1735,62 @@
           "yGrabOffset": 0
         }
       ]
+    },
+    {
+      "height": 32,
+      "name": "Birdsong",
+      "tags": "",
+      "texture": "Sprites\\transparent.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [
+        {
+          "name": "Index",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "Solved",
+          "type": "boolean",
+          "value": false
+        },
+        {
+          "name": "Notes",
+          "type": "string",
+          "value": "B,R,G"
+        }
+      ],
+      "behaviors": []
+    },
+    {
+      "bold": true,
+      "italic": false,
+      "name": "Message",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [
+        {
+          "name": "Text",
+          "type": "string",
+          "value": "Why did you do that??"
+        },
+        {
+          "name": "Interact",
+          "type": "string",
+          "value": "Hmm?"
+        }
+      ],
+      "behaviors": [],
+      "string": "Hmm?\n   ??",
+      "font": "Fonts\\Amatic_SC\\AmaticSC-Regular.ttf",
+      "characterSize": 40,
+      "color": {
+        "b": 200,
+        "g": 255,
+        "r": 228
+      }
     }
   ],
   "objectsGroups": [],
@@ -3222,28 +4029,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 224,
-          "layer": "",
-          "locked": false,
-          "name": "Birdsong",
-          "persistentUuid": "771008ad-f726-4049-a6d3-2e235b13a93d",
-          "width": 256,
-          "x": -672,
-          "y": 0,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "Code",
-              "type": "string",
-              "value": "Blue"
-            }
-          ]
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "UI",
@@ -3254,22 +4039,6 @@
           "x": 32,
           "y": 32,
           "zOrder": 28,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Birdsong",
-          "persistentUuid": "c502761e-7a80-4b99-90f5-344b039622be",
-          "width": 0,
-          "x": -384,
-          "y": 64,
-          "zOrder": 29,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3453,28 +4222,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 256,
-          "layer": "",
-          "locked": false,
-          "name": "Birdsong",
-          "persistentUuid": "3ceb7264-acf9-4b09-bd88-3d09dd580155",
-          "width": 384,
-          "x": 2400,
-          "y": 224,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "Notes",
-              "type": "string",
-              "value": "B"
-            }
-          ]
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 32,
           "layer": "",
           "locked": false,
@@ -3519,33 +4266,6 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 320,
-          "layer": "",
-          "locked": false,
-          "name": "Birdsong",
-          "persistentUuid": "d8e385d9-e7db-4df6-a391-4183ce4b215c",
-          "width": 384,
-          "x": 3168,
-          "y": 480,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "Notes",
-              "type": "string",
-              "value": "R,R"
-            },
-            {
-              "name": "Index",
-              "type": "number",
-              "value": 0
-            }
-          ]
         },
         {
           "angle": 0,
@@ -3642,28 +4362,6 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 320,
-          "layer": "",
-          "locked": false,
-          "name": "Birdsong",
-          "persistentUuid": "ffef60f1-6c22-4741-b1b8-9fe2dcf39089",
-          "width": 320,
-          "x": 4160,
-          "y": 416,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "Notes",
-              "type": "string",
-              "value": "G,G,G"
-            }
-          ]
         },
         {
           "angle": 0,
@@ -3856,28 +4554,6 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 224,
-          "layer": "",
-          "locked": false,
-          "name": "Birdsong",
-          "persistentUuid": "3a888bff-9150-4631-bb23-f73b04f8e251",
-          "width": 256,
-          "x": 5952,
-          "y": 320,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "Notes",
-              "type": "string",
-              "value": "R,G,B,B,G,R"
-            }
-          ]
         },
         {
           "angle": 0,
@@ -5293,22 +5969,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Birdsong",
-          "persistentUuid": "ebc3d368-25da-4c90-9c78-649fab1ff05f",
-          "width": 0,
-          "x": -384,
-          "y": 64,
-          "zOrder": 29,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "height": 896,
           "layer": "",
@@ -6717,28 +7377,6 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 704,
-          "layer": "",
-          "locked": false,
-          "name": "Birdsong",
-          "persistentUuid": "c502761e-7a80-4b99-90f5-344b039622be",
-          "width": 384,
-          "x": -544,
-          "y": -608,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "Notes",
-              "type": "string",
-              "value": "R,B,G"
-            }
-          ]
-        },
-        {
-          "angle": 0,
-          "customSize": true,
           "height": 448,
           "layer": "",
           "locked": false,
@@ -7863,22 +8501,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Birdsong",
-          "persistentUuid": "c502761e-7a80-4b99-90f5-344b039622be",
-          "width": 0,
-          "x": -384,
-          "y": 64,
-          "zOrder": 29,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "height": 64,
           "layer": "",
@@ -8036,28 +8658,6 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 448,
-          "layer": "",
-          "locked": false,
-          "name": "Birdsong",
-          "persistentUuid": "8b3429c9-f35c-4674-b847-b599e58c199a",
-          "width": 1024,
-          "x": 896,
-          "y": 672,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "Notes",
-              "type": "string",
-              "value": "G,B,R"
-            }
-          ]
         },
         {
           "angle": 0,
@@ -9216,72 +9816,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 224,
-          "layer": "",
-          "locked": false,
-          "name": "Birdsong",
-          "persistentUuid": "771008ad-f726-4049-a6d3-2e235b13a93d",
-          "width": 256,
-          "x": -672,
-          "y": 0,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "Code",
-              "type": "string",
-              "value": "Blue"
-            }
-          ]
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 224,
-          "layer": "",
-          "locked": false,
-          "name": "Birdsong",
-          "persistentUuid": "c6d7bc3f-661f-474a-ae49-b6b9a0d91fc9",
-          "width": 256,
-          "x": 352,
-          "y": -416,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "Notes",
-              "type": "string",
-              "value": "G,G,G"
-            }
-          ]
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 224,
-          "layer": "",
-          "locked": false,
-          "name": "Birdsong",
-          "persistentUuid": "41679608-5500-4972-92c7-f5c234e4004a",
-          "width": 256,
-          "x": -64,
-          "y": -416,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "Notes",
-              "type": "string",
-              "value": "R,R,R"
-            }
-          ]
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "",
@@ -9359,33 +9893,6 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 224,
-          "layer": "",
-          "locked": false,
-          "name": "Birdsong",
-          "persistentUuid": "b1197814-0d80-4ea0-a884-17776139e48a",
-          "width": 256,
-          "x": -480,
-          "y": -416,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "Notes",
-              "type": "string",
-              "value": "B,B,B"
-            },
-            {
-              "name": "Index",
-              "type": "number",
-              "value": 0
-            }
-          ]
         },
         {
           "angle": 0,
@@ -9498,44 +10005,6 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Birdsong",
-          "persistentUuid": "c502761e-7a80-4b99-90f5-344b039622be",
-          "width": 0,
-          "x": -384,
-          "y": 64,
-          "zOrder": 29,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 384,
-          "layer": "",
-          "locked": false,
-          "name": "Birdsong",
-          "persistentUuid": "0e7aed20-8980-498e-9894-c3ed9643e533",
-          "width": 672,
-          "x": -768,
-          "y": 64,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": [
-            {
-              "name": "Notes",
-              "type": "string",
-              "value": "R,G,B,B,G,R"
-            }
-          ]
         },
         {
           "angle": 0,
@@ -10282,18 +10751,18 @@
       ]
     },
     {
-      "b": 255,
+      "b": 226,
       "disableInputWhenNotFocused": true,
       "mangledName": "PlatformTest",
       "name": "PlatformTest",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
-      "r": 255,
+      "r": 168,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 255,
+      "v": 209,
       "uiSettings": {
         "grid": true,
         "gridB": 255,
@@ -10306,27 +10775,40 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.6400000000000001
+        "zoomFactor": 0.7399999999999998
       },
-      "objectsGroups": [],
+      "objectsGroups": [
+        {
+          "name": "Blocks",
+          "objects": [
+            {
+              "name": "Block_Stone"
+            },
+            {
+              "name": "Block_Ruin"
+            },
+            {
+              "name": "Block_Grass"
+            }
+          ]
+        },
+        {
+          "name": "Background",
+          "objects": [
+            {
+              "name": "BG_Sky"
+            },
+            {
+              "name": "BG_Mt"
+            },
+            {
+              "name": "BG_Hill"
+            }
+          ]
+        }
+      ],
       "variables": [],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 64,
-          "layer": "",
-          "locked": false,
-          "name": "Block",
-          "persistentUuid": "308c4e3a-bd11-498b-97d5-d91103b9454a",
-          "width": 768,
-          "x": 0,
-          "y": 480,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": false,
@@ -10336,9 +10818,9 @@
           "name": "Player",
           "persistentUuid": "4c6371fb-b098-430b-98da-58c3fe466cd2",
           "width": 0,
-          "x": 512,
+          "x": 160,
           "y": 384,
-          "zOrder": 30,
+          "zOrder": 60,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10355,22 +10837,6 @@
           "x": 640,
           "y": -416,
           "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 64,
-          "layer": "",
-          "locked": false,
-          "name": "Block",
-          "persistentUuid": "1d2d196e-f9e6-4816-b792-ce8b51ba1e28",
-          "width": 1408,
-          "x": 576,
-          "y": 544,
-          "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10626,22 +11092,6 @@
           "layer": "",
           "locked": false,
           "name": "Ruler",
-          "persistentUuid": "46a33222-d53e-443f-b8eb-47025cb8b01d",
-          "width": 0,
-          "x": 736,
-          "y": 384,
-          "zOrder": 34,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "Ruler",
           "persistentUuid": "e1fd7f88-7abc-4c2c-a206-c5df9171fae2",
           "width": 0,
           "x": 736,
@@ -10682,14 +11132,110 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 896,
+          "height": 96,
           "layer": "",
           "locked": false,
-          "name": "Ladder",
-          "persistentUuid": "af2e9153-5090-4a79-bfb5-296c249dc7db",
-          "width": 32,
-          "x": 448,
-          "y": -416,
+          "name": "Block_Grass",
+          "persistentUuid": "d17eb832-f2ac-4e46-860a-98e5ead30504",
+          "width": 128,
+          "x": 1280,
+          "y": 224,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "locked": false,
+          "name": "Block_Ruin",
+          "persistentUuid": "e3cd732c-c77e-411c-8f66-39784ff8dd9e",
+          "width": 256,
+          "x": 1120,
+          "y": 416,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "locked": false,
+          "name": "Block_Stone",
+          "persistentUuid": "765720f3-e33c-4f6d-85f2-547260cfc017",
+          "width": 160,
+          "x": 928,
+          "y": 224,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "locked": false,
+          "name": "Block_Grass",
+          "persistentUuid": "78b15d38-3a9b-45dc-b4c5-90936bfc3d33",
+          "width": 704,
+          "x": 0,
+          "y": 480,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
+          "layer": "",
+          "locked": false,
+          "name": "Block_Grass",
+          "persistentUuid": "d77b1712-3319-4ac2-8368-2a0bba7ac489",
+          "width": 1312,
+          "x": 704,
+          "y": 544,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "BG_Sky",
+          "persistentUuid": "2a95f8b9-ede5-4976-86bf-c32da79faef7",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "Background",
+          "locked": false,
+          "name": "BG_Mt",
+          "persistentUuid": "381c19b2-19be-418c-a30f-bdedb26d0f0d",
+          "width": 0,
+          "x": 0,
+          "y": 32,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -10698,15 +11244,69 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 256,
+          "height": 544,
+          "layer": "Background",
+          "locked": false,
+          "name": "BG_Hill",
+          "persistentUuid": "b4a9fda3-b486-49f8-a6b5-5598547f2dbe",
+          "width": 800,
+          "x": 0,
+          "y": 64,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 64,
           "layer": "",
           "locked": false,
-          "name": "Ladder",
-          "persistentUuid": "43aa4786-15a9-4073-8da4-e49c28234dc1",
-          "width": 128,
-          "x": 96,
-          "y": 224,
-          "zOrder": 1,
+          "name": "Message",
+          "persistentUuid": "9018fdd7-6902-4622-b0e8-719174a5c24a",
+          "width": 320,
+          "x": 960,
+          "y": 384,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": [
+            {
+              "name": "Interact",
+              "type": "string",
+              "value": "Read"
+            }
+          ]
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Deco_Sign",
+          "persistentUuid": "e9e5fcd0-f497-4e8d-bd80-eec38dc83a8c",
+          "width": 0,
+          "x": 960,
+          "y": 480,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 320,
+          "layer": "",
+          "locked": false,
+          "name": "Ladder_New",
+          "persistentUuid": "ea95fbf6-a361-4fbc-9a95-ebf62f84a8a5",
+          "width": 320,
+          "x": 192,
+          "y": 160,
+          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10782,8 +11382,8 @@
           "variables": [
             {
               "name": "Distance",
-              "type": "string",
-              "value": "1"
+              "type": "number",
+              "value": 1
             }
           ],
           "behaviors": [],
@@ -10795,6 +11395,177 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "bottomMargin": 16,
+          "height": 48,
+          "leftMargin": 16,
+          "name": "Block_Stone",
+          "rightMargin": 16,
+          "tags": "",
+          "texture": "Sprites\\ForestPack\\Tileset\\Stretches\\ledge_stone.png",
+          "tiled": true,
+          "topMargin": 16,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 48,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "bottomMargin": 16,
+          "height": 48,
+          "leftMargin": 16,
+          "name": "Block_Ruin",
+          "rightMargin": 16,
+          "tags": "",
+          "texture": "Sprites\\ForestPack\\Tileset\\Stretches\\ledge_ruins.png",
+          "tiled": true,
+          "topMargin": 16,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 48,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "platformType": "Jumpthru",
+              "canBeGrabbed": true,
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "bottomMargin": 16,
+          "height": 48,
+          "leftMargin": 16,
+          "name": "Block_Grass",
+          "rightMargin": 16,
+          "tags": "",
+          "texture": "Sprites\\ForestPack\\Tileset\\Stretches\\ledge_grass.png",
+          "tiled": true,
+          "topMargin": 16,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 48,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "bottomMargin": 0,
+          "height": 480,
+          "leftMargin": 0,
+          "name": "BG_Hill",
+          "rightMargin": 0,
+          "tags": "",
+          "texture": "Sprites\\ForestPack\\BG3-1.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 800,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "bottomMargin": 0,
+          "height": 480,
+          "leftMargin": 0,
+          "name": "BG_Mt",
+          "rightMargin": 0,
+          "tags": "",
+          "texture": "Sprites\\ForestPack\\BG2-1.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 800,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "bottomMargin": 0,
+          "height": 480,
+          "leftMargin": 0,
+          "name": "BG_Sky",
+          "rightMargin": 0,
+          "tags": "",
+          "texture": "Sprites\\ForestPack\\BG1-1.png",
+          "tiled": false,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 800,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "name": "Deco_Sign",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "height": 32,
+          "name": "Ladder_New",
+          "tags": "",
+          "texture": "Sprites\\Environment\\ladder.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "Ladder",
+              "yGrabOffset": 0
+            }
+          ]
         }
       ],
       "events": [
@@ -10806,6 +11577,95 @@
             "includeConfig": 0
           },
           "target": "PlayerEvents"
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "VarScene"
+                  },
+                  "parameters": [
+                    "ResWidth",
+                    "!=",
+                    "SceneWindowWidth()"
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "ResWidth",
+                "=",
+                "ScreenWidth()"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PanelSpriteObject::Width"
+              },
+              "parameters": [
+                "BG_Sky",
+                "=",
+                "SceneWindowWidth()"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PanelSpriteObject::Width"
+              },
+              "parameters": [
+                "BG_Mt",
+                "=",
+                "SceneWindowWidth()"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PanelSpriteObject::Width"
+              },
+              "parameters": [
+                "BG_Hill",
+                "=",
+                "SceneWindowWidth()"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         },
         {
           "disabled": false,
@@ -10840,42 +11700,20 @@
             }
           ],
           "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "TextObject::String"
-              },
-              "parameters": [
-                "JumpCount",
-                "=",
-                "Player.VariableString(Jump)"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "TextObject::String"
-              },
-              "parameters": [
-                "Ruler",
-                "=",
-                "\"^ \" + Ruler.VariableString(Distance)"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
         }
       ],
       "layers": [
+        {
+          "ambientLightColorB": 1702453580,
+          "ambientLightColorG": 1953719636,
+          "ambientLightColorR": 134217728,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Background",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
         {
           "ambientLightColorB": 0,
           "ambientLightColorG": 0,
@@ -10907,6 +11745,73 @@
           "name": "UI",
           "visibility": true,
           "cameras": [],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "New_32scene",
+      "name": "New scene",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 1
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 67,
+          "ambientLightColorG": 9853104,
+          "ambientLightColorR": 61,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
           "effects": []
         }
       ],
@@ -11036,28 +11941,302 @@
             "textG": 0,
             "textR": 0
           },
-          "comment": "Control configuration stuff below\n",
+          "comment": "Animation stuff below",
           "comment2": ""
         },
         {
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
+          "conditions": [
             {
               "type": {
                 "inverted": false,
-                "value": "PlatformBehavior::SetCanJump"
+                "value": "SoundStopped"
               },
               "parameters": [
-                "Player",
-                "PlatformerObject"
+                "",
+                "1"
               ],
               "subInstructions": []
             }
           ],
-          "events": []
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "PlatformBehavior::IsMoving"
+                      },
+                      "parameters": [
+                        "Player",
+                        "PlatformerObject"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Player.VariableString(Dir) + \"Idle\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlatformBehavior::IsMoving"
+                      },
+                      "parameters": [
+                        "Player",
+                        "PlatformerObject"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Player.VariableString(Dir) + \"Walk\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Player.VariableString(Dir) + \"Jump\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::IsFalling"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Player.VariableString(Dir) + \"Fall\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::IsOnLadder"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetAnimationName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Player.VariableString(Dir) + \"Ladder\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "AnyKeyPressed"
+                      },
+                      "parameters": [
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PauseAnimation"
+                      },
+                      "parameters": [
+                        "Player"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "AnyKeyPressed"
+                      },
+                      "parameters": [
+                        ""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": [],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "PlayAnimation"
+                      },
+                      "parameters": [
+                        "Player"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Control configuration stuff below\n",
+          "comment2": ""
         },
         {
           "disabled": false,
@@ -11094,6 +12273,14 @@
                   "subInstructions": []
                 }
               ]
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
             }
           ],
           "actions": [
@@ -11107,6 +12294,16 @@
                 "Jump",
                 "=",
                 "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlayAnimation"
+              },
+              "parameters": [
+                "Player"
               ],
               "subInstructions": []
             }
@@ -11262,11 +12459,13 @@
             {
               "type": {
                 "inverted": false,
-                "value": "FlipX"
+                "value": "ModVarObjetTxt"
               },
               "parameters": [
                 "Player",
-                "yes"
+                "Dir",
+                "=",
+                "\"L_\""
               ],
               "subInstructions": []
             }
@@ -11305,11 +12504,13 @@
             {
               "type": {
                 "inverted": false,
-                "value": "FlipX"
+                "value": "ModVarObjetTxt"
               },
               "parameters": [
                 "Player",
-                "no"
+                "Dir",
+                "=",
+                "\"R_\""
               ],
               "subInstructions": []
             }
@@ -11378,6 +12579,17 @@
                 "1"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::SetCanJump"
+              },
+              "parameters": [
+                "Player",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -11441,7 +12653,7 @@
               },
               "parameters": [
                 "Player",
-                "\"Blue\""
+                "Player.VariableString(Dir) + \"Blue\""
               ],
               "subInstructions": []
             },
@@ -11519,7 +12731,7 @@
               },
               "parameters": [
                 "Player",
-                "\"Red\""
+                "Player.VariableString(Dir) + \"Red\""
               ],
               "subInstructions": []
             },
@@ -11597,7 +12809,7 @@
               },
               "parameters": [
                 "Player",
-                "\"Green\""
+                "Player.VariableString(Dir) + \"Green\""
               ],
               "subInstructions": []
             },
@@ -11610,6 +12822,250 @@
                 "PlayerNote",
                 "=",
                 "\"G\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Message stuff below",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SceneJustResumed"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::SetOutline"
+              },
+              "parameters": [
+                "Message",
+                "\"80;107;50\"",
+                "10"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Message",
+                "=",
+                "Message.VariableString(Interact) + NewLine() + GlobalVariableString(KeyConfirm)"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::SetTextAlignment"
+              },
+              "parameters": [
+                "Message",
+                "\"center\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Distance"
+              },
+              "parameters": [
+                "Player",
+                "Message",
+                "Player.Width() * 10",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Message",
+                "!=",
+                "Message.VariableString(Text)"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::Opacity"
+              },
+              "parameters": [
+                "Message",
+                "=",
+                "(Player.Width() * 10) - Player.Distance(Message)"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "GlobalVariableString(KeyConfirm)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "Message",
+                    "!=",
+                    "Message.VariableString(Text)"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Audio\\confirmation_001.ogg",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::String"
+                  },
+                  "parameters": [
+                    "Message",
+                    "=",
+                    "Message.VariableString(Text)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "TextObject::Opacity"
+                  },
+                  "parameters": [
+                    "Message",
+                    "=",
+                    "255"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Message",
+                "=",
+                "Message.VariableString(Text)"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "Distance"
+              },
+              "parameters": [
+                "Player",
+                "Message",
+                "Player.Width() * 5",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Message",
+                "=",
+                "Message.VariableString(Interact) + NewLine() + GlobalVariableString(KeyConfirm)"
               ],
               "subInstructions": []
             }
@@ -11648,19 +13104,7 @@
               "subInstructions": []
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "SetAnimationName"
-              },
-              "parameters": [
-                "Player",
-                "\"Idle\""
-              ],
-              "subInstructions": []
-            }
-          ],
+          "actions": [],
           "events": [
             {
               "disabled": false,
