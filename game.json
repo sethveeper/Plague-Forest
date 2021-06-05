@@ -3288,14 +3288,14 @@
     {
       "b": 226,
       "disableInputWhenNotFocused": true,
-      "mangledName": "PlatformTest",
-      "name": "PlatformTest",
+      "mangledName": "PlatformTestA",
+      "name": "PlatformTestA",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
       "r": 168,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 209,
       "uiSettings": {
@@ -3310,7 +3310,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.7599999999999996
+        "zoomFactor": 0.4500000000000001
       },
       "objectsGroups": [
         {
@@ -3329,25 +3329,9 @@
           "name": "Player",
           "persistentUuid": "4c6371fb-b098-430b-98da-58c3fe466cd2",
           "width": 0,
-          "x": 64,
+          "x": 608,
           "y": 384,
           "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "UI",
-          "locked": false,
-          "name": "Debug",
-          "persistentUuid": "ba0f4b32-d435-4c91-8035-fe9e92f50f73",
-          "width": 0,
-          "x": 32,
-          "y": 32,
-          "zOrder": 32,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3360,7 +3344,7 @@
           "locked": false,
           "name": "Block_Grass",
           "persistentUuid": "78b15d38-3a9b-45dc-b4c5-90936bfc3d33",
-          "width": 704,
+          "width": 960,
           "x": 0,
           "y": 480,
           "zOrder": 41,
@@ -3371,143 +3355,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 64,
+          "height": 160,
           "layer": "",
           "locked": false,
-          "name": "Block_Grass",
-          "persistentUuid": "d77b1712-3319-4ac2-8368-2a0bba7ac489",
-          "width": 1312,
-          "x": 704,
-          "y": 544,
+          "name": "ExitRight",
+          "persistentUuid": "dcd4749f-e5b7-444f-8655-68a9a997efcc",
+          "width": 160,
+          "x": 736,
+          "y": 320,
           "zOrder": 42,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "UI",
-          "locked": false,
-          "name": "UI_NoteStreak",
-          "persistentUuid": "c1746263-2a07-431f-a317-d34a43543291",
-          "width": 0,
-          "x": 32,
-          "y": 64,
-          "zOrder": 61,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 64,
-          "layer": "",
-          "locked": false,
-          "name": "Block_Stone",
-          "persistentUuid": "5b948df0-2b3a-4f97-995b-b4e852e35b4b",
-          "width": 320,
-          "x": 1152,
-          "y": 384,
-          "zOrder": 64,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 64,
-          "layer": "",
-          "locked": false,
-          "name": "Block_Stone",
-          "persistentUuid": "0a6720f4-9c8c-46b1-9480-0d41a292f2a5",
-          "width": 320,
-          "x": 1312,
-          "y": 224,
-          "zOrder": 64,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 64,
-          "layer": "",
-          "locked": false,
-          "name": "Block_Stone",
-          "persistentUuid": "8506a6ee-2d56-420f-8a81-79c2564ffbde",
-          "width": 320,
-          "x": 992,
-          "y": 32,
-          "zOrder": 64,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 64,
-          "layer": "",
-          "locked": false,
-          "name": "Block_Stone",
-          "persistentUuid": "214f3034-6280-4526-8e56-307947c97c3a",
-          "width": 320,
-          "x": 608,
-          "y": -192,
-          "zOrder": 64,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "FlowerBlue",
-          "persistentUuid": "d94f5c47-7764-4b1b-8817-7fd99970eaef",
-          "width": 0,
-          "x": 224,
-          "y": 416,
-          "zOrder": 65,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "FlowerRed",
-          "persistentUuid": "ebf8501a-ccea-4db9-91b6-d35f66948a69",
-          "width": 0,
-          "x": 352,
-          "y": 416,
-          "zOrder": 66,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "FlowerGreen",
-          "persistentUuid": "f6c018a4-2db9-414a-8b63-95b867b79691",
-          "width": 0,
-          "x": 480,
-          "y": 416,
-          "zOrder": 67,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3757,6 +3613,45 @@
               ]
             }
           ]
+        },
+        {
+          "name": "ExitRight",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\Environment\\exit_right.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -3773,17 +3668,42 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
           "actions": [
             {
               "type": {
                 "inverted": false,
-                "value": "TextObject::String"
+                "value": "PlayMusicCanal"
               },
               "parameters": [
-                "Debug",
-                "=",
-                "\"Player Note: \" + GlobalVariableString(PlayerNote)"
+                "",
+                "Audio\\Music\\12691__connum__melancholic-interpretation-in-g.mp3",
+                "1",
+                "no",
+                "30",
+                ""
               ],
               "subInstructions": []
             }
@@ -3798,41 +3718,629 @@
             {
               "type": {
                 "inverted": false,
-                "value": "BuiltinCommonInstructions::Or"
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "ExitRight",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
               },
               "parameters": [],
-              "subInstructions": [
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "StopMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"PlatformTestB\"",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 1702453580,
+          "ambientLightColorG": 1953719636,
+          "ambientLightColorR": 134217728,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Background",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 0,
+          "ambientLightColorG": 0,
+          "ambientLightColorR": 0,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 1702453580,
+          "ambientLightColorG": 0,
+          "ambientLightColorR": 7654632,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "UI",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Birdsong",
+          "type": "BirdsongExtension::Birdsong"
+        },
+        {
+          "name": "BirdsongSimple",
+          "type": "BirdsongExtension::BirdsongSimple"
+        },
+        {
+          "name": "HorizontalTiledSpriteParallax",
+          "type": "Parallax::HorizontalTiledSpriteParallax"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        }
+      ]
+    },
+    {
+      "b": 226,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "PlatformTestB",
+      "name": "PlatformTestB",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 168,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": false,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": true,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 0.3199999999999993
+      },
+      "objectsGroups": [
+        {
+          "name": "Background",
+          "objects": []
+        }
+      ],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Player",
+          "persistentUuid": "4c6371fb-b098-430b-98da-58c3fe466cd2",
+          "width": 0,
+          "x": 288,
+          "y": 384,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "locked": false,
+          "name": "Debug",
+          "persistentUuid": "ba0f4b32-d435-4c91-8035-fe9e92f50f73",
+          "width": 0,
+          "x": 32,
+          "y": 32,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "locked": false,
+          "name": "Block_Grass",
+          "persistentUuid": "78b15d38-3a9b-45dc-b4c5-90936bfc3d33",
+          "width": 704,
+          "x": 0,
+          "y": 480,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "locked": false,
+          "name": "UI_NoteStreak",
+          "persistentUuid": "c1746263-2a07-431f-a317-d34a43543291",
+          "width": 0,
+          "x": 32,
+          "y": 64,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "FlowerGreen",
+          "persistentUuid": "b700008e-6551-48ba-9b74-75e9152d4527",
+          "width": 0,
+          "x": 352,
+          "y": 416,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 160,
+          "layer": "",
+          "locked": false,
+          "name": "ExitLeft",
+          "persistentUuid": "5b0e45be-fdaf-4c0a-bed5-e86ade547ba1",
+          "width": 192,
+          "x": 0,
+          "y": 320,
+          "zOrder": 68,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 160,
+          "layer": "",
+          "locked": false,
+          "name": "ExitRight",
+          "persistentUuid": "b02367eb-c931-49c6-ac04-c84bc64cd34c",
+          "width": 160,
+          "x": 544,
+          "y": 320,
+          "zOrder": 69,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Debug",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Jump Count: 0",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "name": "FlowerBlue",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "BirdsongSimple",
+              "type": "BirdsongExtension::BirdsongSimple",
+              "Note": "B",
+              "Conditional": false
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
                 {
-                  "type": {
-                    "inverted": false,
-                    "value": "ObjectTimer"
-                  },
-                  "parameters": [
-                    "Player",
-                    "\"NoteCheck\"",
-                    "5"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "KeyFromTextPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "GlobalVariableString(KeyConfirm)"
-                  ],
-                  "subInstructions": []
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\Environment\\flower_blue_big.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
                 }
               ]
             },
             {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\Environment\\flower_white_big.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FlowerRed",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "BirdsongSimple",
+              "type": "BirdsongExtension::BirdsongSimple",
+              "Note": "R",
+              "Conditional": false
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\Environment\\flower_red_big.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\Environment\\flower_white_big.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FlowerGreen",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "BirdsongSimple",
+              "type": "BirdsongExtension::BirdsongSimple",
+              "Note": "G",
+              "Conditional": false
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\Environment\\flower_green_big.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\Environment\\flower_white_big.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ExitRight",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\Environment\\exit_right.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ExitLeft",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\Environment\\exit_left.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "PlayerEvents"
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
               "type": {
                 "inverted": false,
-                "value": "BuiltinCommonInstructions::Once"
+                "value": "DepartScene"
               },
-              "parameters": [],
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ],
               "subInstructions": []
             }
           ],
@@ -3840,35 +4348,14 @@
             {
               "type": {
                 "inverted": false,
-                "value": "BirdsongExtension::BirdsongSimple::ResetSong"
+                "value": "PlayMusicCanal"
               },
               "parameters": [
-                "FlowerBlue",
-                "BirdsongSimple",
-                ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "BirdsongExtension::BirdsongSimple::ResetSong"
-              },
-              "parameters": [
-                "FlowerRed",
-                "BirdsongSimple",
-                ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "BirdsongExtension::BirdsongSimple::ResetSong"
-              },
-              "parameters": [
-                "FlowerGreen",
-                "BirdsongSimple",
+                "",
+                "Audio\\Music\\328094__foolboymedia__we-are-more-than-enough.wav",
+                "1",
+                "yes",
+                "",
                 ""
               ],
               "subInstructions": []
@@ -3884,21 +4371,15 @@
             {
               "type": {
                 "inverted": false,
-                "value": "BirdsongExtension::BirdsongSimple::CheckDone"
+                "value": "CollisionNP"
               },
               "parameters": [
-                "FlowerBlue",
-                "BirdsongSimple",
+                "Player",
+                "ExitLeft",
+                "",
+                "",
                 ""
               ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": [],
               "subInstructions": []
             }
           ],
@@ -3906,23 +4387,22 @@
             {
               "type": {
                 "inverted": false,
-                "value": "BirdsongExtension::BirdsongSimple::ResetSong"
+                "value": "StopMusicCanal"
               },
               "parameters": [
-                "FlowerRed",
-                "BirdsongSimple",
-                ""
+                "",
+                "1"
               ],
               "subInstructions": []
             },
             {
               "type": {
                 "inverted": false,
-                "value": "BirdsongExtension::BirdsongSimple::ResetSong"
+                "value": "Scene"
               },
               "parameters": [
-                "FlowerGreen",
-                "BirdsongSimple",
+                "",
+                "\"PlatformTestA\"",
                 ""
               ],
               "subInstructions": []
@@ -3938,21 +4418,15 @@
             {
               "type": {
                 "inverted": false,
-                "value": "BirdsongExtension::BirdsongSimple::CheckDone"
+                "value": "CollisionNP"
               },
               "parameters": [
-                "FlowerRed",
-                "BirdsongSimple",
+                "Player",
+                "ExitRight",
+                "",
+                "",
                 ""
               ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": [],
               "subInstructions": []
             }
           ],
@@ -3960,23 +4434,538 @@
             {
               "type": {
                 "inverted": false,
-                "value": "BirdsongExtension::BirdsongSimple::ResetSong"
+                "value": "Scene"
               },
               "parameters": [
-                "FlowerBlue",
-                "BirdsongSimple",
+                "",
+                "\"PlatformTestC\"",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 1702453580,
+          "ambientLightColorG": 1953719636,
+          "ambientLightColorR": 134217728,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "Background",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 0,
+          "ambientLightColorG": 0,
+          "ambientLightColorR": 0,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        },
+        {
+          "ambientLightColorB": 1702453580,
+          "ambientLightColorG": 0,
+          "ambientLightColorR": 7654632,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "UI",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Birdsong",
+          "type": "BirdsongExtension::Birdsong"
+        },
+        {
+          "name": "BirdsongSimple",
+          "type": "BirdsongExtension::BirdsongSimple"
+        },
+        {
+          "name": "HorizontalTiledSpriteParallax",
+          "type": "Parallax::HorizontalTiledSpriteParallax"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        }
+      ]
+    },
+    {
+      "b": 226,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "PlatformTestC",
+      "name": "PlatformTestC",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 168,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": false,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": true,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 0.5199999999999994
+      },
+      "objectsGroups": [
+        {
+          "name": "Background",
+          "objects": []
+        }
+      ],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Player",
+          "persistentUuid": "4c6371fb-b098-430b-98da-58c3fe466cd2",
+          "width": 0,
+          "x": 288,
+          "y": 384,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "locked": false,
+          "name": "Debug",
+          "persistentUuid": "ba0f4b32-d435-4c91-8035-fe9e92f50f73",
+          "width": 0,
+          "x": 32,
+          "y": 32,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 128,
+          "layer": "",
+          "locked": false,
+          "name": "Block_Grass",
+          "persistentUuid": "78b15d38-3a9b-45dc-b4c5-90936bfc3d33",
+          "width": 704,
+          "x": 0,
+          "y": 480,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "locked": false,
+          "name": "UI_NoteStreak",
+          "persistentUuid": "c1746263-2a07-431f-a317-d34a43543291",
+          "width": 0,
+          "x": 32,
+          "y": 64,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 160,
+          "layer": "",
+          "locked": false,
+          "name": "ExitLeft",
+          "persistentUuid": "5b0e45be-fdaf-4c0a-bed5-e86ade547ba1",
+          "width": 192,
+          "x": 0,
+          "y": 320,
+          "zOrder": 68,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Debug",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Jump Count: 0",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "name": "FlowerBlue",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "BirdsongSimple",
+              "type": "BirdsongExtension::BirdsongSimple",
+              "Note": "B",
+              "Conditional": false
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\Environment\\flower_blue_big.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\Environment\\flower_white_big.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FlowerRed",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "BirdsongSimple",
+              "type": "BirdsongExtension::BirdsongSimple",
+              "Note": "R",
+              "Conditional": false
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\Environment\\flower_red_big.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\Environment\\flower_white_big.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FlowerGreen",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "BirdsongSimple",
+              "type": "BirdsongExtension::BirdsongSimple",
+              "Note": "G",
+              "Conditional": false
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\Environment\\flower_green_big.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\Environment\\flower_white_big.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ExitLeft",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "Sprites\\Environment\\exit_left.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "PlayerEvents"
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
                 ""
               ],
               "subInstructions": []
             },
             {
               "type": {
-                "inverted": false,
-                "value": "BirdsongExtension::BirdsongSimple::ResetSong"
+                "inverted": true,
+                "value": "MusicPlaying"
               },
               "parameters": [
-                "FlowerGreen",
-                "BirdsongSimple",
+                "",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "Audio\\Music\\328094__foolboymedia__we-are-more-than-enough.wav",
+                "1",
+                "yes",
+                "",
                 ""
               ],
               "subInstructions": []
@@ -3992,21 +4981,15 @@
             {
               "type": {
                 "inverted": false,
-                "value": "BirdsongExtension::BirdsongSimple::CheckDone"
+                "value": "CollisionNP"
               },
               "parameters": [
-                "FlowerGreen",
-                "BirdsongSimple",
+                "Player",
+                "ExitLeft",
+                "",
+                "",
                 ""
               ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "BuiltinCommonInstructions::Once"
-              },
-              "parameters": [],
               "subInstructions": []
             }
           ],
@@ -4014,23 +4997,11 @@
             {
               "type": {
                 "inverted": false,
-                "value": "BirdsongExtension::BirdsongSimple::ResetSong"
+                "value": "Scene"
               },
               "parameters": [
-                "FlowerBlue",
-                "BirdsongSimple",
-                ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "BirdsongExtension::BirdsongSimple::ResetSong"
-              },
-              "parameters": [
-                "FlowerRed",
-                "BirdsongSimple",
+                "",
+                "\"PlatformTestB\"",
                 ""
               ],
               "subInstructions": []
@@ -4168,7 +5139,7 @@
           "behaviors": [
             {
               "name": "Menu",
-              "type": "Menus::Menu",
+              "type": "SethUI::Menu",
               "Options": "Option A,Choice B,Selection C",
               "Index": 0,
               "MenuOptions": "Option A,Choice B,Selection C,Fox D,Crux E,Protogen F,Dragon G"
@@ -4233,7 +5204,7 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Menus::Menu::CyclePrev"
+                "value": "SethUI::Menu::CyclePrev"
               },
               "parameters": [
                 "TestMenu",
@@ -4274,7 +5245,7 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Menus::Menu::CycleNext"
+                "value": "SethUI::Menu::CycleNext"
               },
               "parameters": [
                 "TestMenu",
@@ -4305,7 +5276,7 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Menus::Menu::CheckOption"
+                "value": "SethUI::Menu::CheckOption"
               },
               "parameters": [
                 "TestMenu",
@@ -4374,7 +5345,7 @@
         },
         {
           "name": "Menu",
-          "type": "Menus::Menu"
+          "type": "SethUI::Menu"
         },
         {
           "name": "Platform",
@@ -4396,7 +5367,7 @@
       "oglZNear": 1,
       "r": 0,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "",
       "v": 0,
       "uiSettings": {
@@ -6295,7 +7266,7 @@
           "behaviors": [
             {
               "name": "Menu",
-              "type": "Menus::Menu",
+              "type": "SethUI::Menu",
               "MenuOptions": "Start,Keybinds,Exit"
             }
           ],
@@ -6461,7 +7432,7 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Menus::Menu::CyclePrev"
+                "value": "SethUI::Menu::CyclePrev"
               },
               "parameters": [
                 "Menu",
@@ -6516,7 +7487,7 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Menus::Menu::CycleNext"
+                "value": "SethUI::Menu::CycleNext"
               },
               "parameters": [
                 "Menu",
@@ -6577,7 +7548,7 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "Menus::Menu::CheckOption"
+                    "value": "SethUI::Menu::CheckOption"
                   },
                   "parameters": [
                     "Menu",
@@ -6624,7 +7595,7 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "Menus::Menu::CheckOption"
+                    "value": "SethUI::Menu::CheckOption"
                   },
                   "parameters": [
                     "Menu",
@@ -6658,7 +7629,7 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "Menus::Menu::CheckOption"
+                    "value": "SethUI::Menu::CheckOption"
                   },
                   "parameters": [
                     "Menu",
@@ -6722,12 +7693,1018 @@
       ],
       "behaviorsSharedData": [
         {
+          "name": "Birdsong",
+          "type": "BirdsongExtension::Birdsong"
+        },
+        {
           "name": "HorizontalTiledSpriteParallax",
           "type": "Parallax::HorizontalTiledSpriteParallax"
         },
         {
           "name": "Menu",
-          "type": "Menus::Menu"
+          "type": "SethUI::Menu"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        }
+      ]
+    },
+    {
+      "b": 0,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "MenuSounds",
+      "name": "MenuSounds",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 0,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "Plague Forest Demo - Main Menu",
+      "v": 0,
+      "uiSettings": {
+        "grid": true,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 0.6199999999999997
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Title",
+          "persistentUuid": "9f216c0c-6788-4ae2-a89c-888f0a253418",
+          "width": 0,
+          "x": 256,
+          "y": 32,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "HelpUp",
+          "persistentUuid": "93511f64-dfff-4cb2-9f63-68cf340f0aa3",
+          "width": 0,
+          "x": 0,
+          "y": 32,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "HelpDown",
+          "persistentUuid": "2544f91a-1ea2-4cb0-ae67-33c3686d773a",
+          "width": 0,
+          "x": 0,
+          "y": 96,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "HelpSelect",
+          "persistentUuid": "90523617-9cb9-40ab-9dc3-8ab9f787a033",
+          "width": 128,
+          "x": 0,
+          "y": 160,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "Menu",
+          "persistentUuid": "d60adab3-7094-406b-91af-b11d1b3f73d5",
+          "width": 480,
+          "x": 192,
+          "y": 192,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Prompt",
+          "persistentUuid": "32c25768-8983-4893-b7eb-30b2c178837e",
+          "width": 0,
+          "x": 192,
+          "y": 320,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "HelpReturn",
+          "persistentUuid": "e8254e5e-68a7-4da0-a24f-6fbaf41c83c6",
+          "width": 128,
+          "x": 0,
+          "y": 224,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Prompt",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Menu",
+              "type": "SethUI::Menu",
+              "MenuOptions": "20,40,60,80,100"
+            }
+          ],
+          "string": "Press your '???' key...",
+          "font": "Fonts\\Amatic_SC\\AmaticSC-Regular.ttf",
+          "characterSize": 50,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Title",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Sounds",
+          "font": "Fonts\\Amatic_SC\\AmaticSC-Regular.ttf",
+          "characterSize": 120,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Menu",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Menu",
+              "type": "SethUI::Menu",
+              "MenuOptions": "Defaults,Music,Effects,Birdsong"
+            }
+          ],
+          "string": "Menu",
+          "font": "Fonts\\Amatic_SC\\AmaticSC-Regular.ttf",
+          "characterSize": 40,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "HelpUp",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Up: ?",
+          "font": "Fonts\\Amatic_SC\\AmaticSC-Regular.ttf",
+          "characterSize": 40,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "HelpDown",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Down: ?",
+          "font": "Fonts\\Amatic_SC\\AmaticSC-Regular.ttf",
+          "characterSize": 40,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "HelpSelect",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Select: ?",
+          "font": "Fonts\\Amatic_SC\\AmaticSC-Regular.ttf",
+          "characterSize": 40,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "HelpReturn",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Return: ?",
+          "font": "Fonts\\Amatic_SC\\AmaticSC-Regular.ttf",
+          "characterSize": 40,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        }
+      ],
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "Keybinder"
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Or"
+              },
+              "parameters": [],
+              "subInstructions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SceneJustResumed"
+                  },
+                  "parameters": [
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "HelpUp",
+                "=",
+                "\"Up: '\" + GlobalVariableString(KeyUp) + \"'\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "HelpDown",
+                "=",
+                "\"Down: '\" + GlobalVariableString(KeyDown) + \"'\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "HelpSelect",
+                "=",
+                "\"Select: '\" + GlobalVariableString(KeyConfirm) + \"'\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetSceneVariableAsBoolean"
+              },
+              "parameters": [
+                "Binding",
+                "False"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Selection Events",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SceneVariableAsBoolean"
+              },
+              "parameters": [
+                "Binding",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Prompt"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "Menu",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "GlobalVariableString(KeyUp)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SethUI::Menu::CyclePrev"
+                  },
+                  "parameters": [
+                    "Menu",
+                    "Menu",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Audio\\UI\\select_001.ogg",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "GlobalVariableString(KeyDown)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SethUI::Menu::CycleNext"
+                  },
+                  "parameters": [
+                    "Menu",
+                    "Menu",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Audio\\UI\\select_001.ogg",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyFromTextReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "GlobalVariableString(KeyConfirm)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetSceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Binding",
+                    "True"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Audio\\UI\\confirmation_001.ogg",
+                    "1",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Soundbind Events",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SceneVariableAsBoolean"
+              },
+              "parameters": [
+                "Binding",
+                "True"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Menu"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "Prompt",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "GlobalVariableString(KeyUp)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SethUI::Menu::CyclePrev"
+                  },
+                  "parameters": [
+                    "Prompt",
+                    "Menu",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Audio\\UI\\select_001.ogg",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyFromTextPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "GlobalVariableString(KeyDown)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SethUI::Menu::CycleNext"
+                  },
+                  "parameters": [
+                    "Prompt",
+                    "Menu",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "Audio\\UI\\select_001.ogg",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyFromTextReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "GlobalVariableString(KeyConfirm)"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "EcrireFichierTxt"
+                  },
+                  "parameters": [
+                    "\"SoundControls\"",
+                    "\"Sound\" + Menu.VariableString(MenuCurrent)",
+                    "ToString(Prompt.Menu::GetOption())"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "SetSceneVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Binding",
+                    "False"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "Audio\\UI\\confirmation_001.ogg",
+                    "1",
+                    "",
+                    "",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Default Events",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SceneVariableAsBoolean"
+              },
+              "parameters": [
+                "Binding",
+                "True"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "SethUI::Menu::CheckOption"
+              },
+              "parameters": [
+                "Menu",
+                "Menu",
+                "\"Defaults\"",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Menu"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "Prompt",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "DeleteFichier"
+              },
+              "parameters": [
+                "\"KeyControls\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Prompt",
+                "=",
+                "\"All Custom keybinds cleared. The game must be restarted for the change to take effect.\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 8058216,
+          "ambientLightColorG": 7014464,
+          "ambientLightColorR": 7677320,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            },
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Birdsong",
+          "type": "BirdsongExtension::Birdsong"
+        },
+        {
+          "name": "HorizontalTiledSpriteParallax",
+          "type": "Parallax::HorizontalTiledSpriteParallax"
+        },
+        {
+          "name": "Menu",
+          "type": "SethUI::Menu"
         },
         {
           "name": "Platform",
@@ -6764,7 +8741,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.5999999999999996
+        "zoomFactor": 0.6199999999999997
       },
       "objectsGroups": [],
       "variables": [],
@@ -6933,7 +8910,7 @@
           "behaviors": [
             {
               "name": "Menu",
-              "type": "Menus::Menu",
+              "type": "SethUI::Menu",
               "MenuOptions": "Defaults,Confirm,Up,Down,Left,Right,Jump,Glide,Blue Note,Red Note,Green Note"
             }
           ],
@@ -7204,7 +9181,7 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "Menus::Menu::CyclePrev"
+                    "value": "SethUI::Menu::CyclePrev"
                   },
                   "parameters": [
                     "Menu",
@@ -7259,7 +9236,7 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "Menus::Menu::CycleNext"
+                    "value": "SethUI::Menu::CycleNext"
                   },
                   "parameters": [
                     "Menu",
@@ -7293,7 +9270,7 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "KeyFromTextReleased"
+                    "value": "KeyFromTextPressed"
                   },
                   "parameters": [
                     "",
@@ -7376,7 +9353,7 @@
             {
               "type": {
                 "inverted": true,
-                "value": "Menus::Menu::CheckOption"
+                "value": "SethUI::Menu::CheckOption"
               },
               "parameters": [
                 "Menu",
@@ -7492,6 +9469,28 @@
                 "\"Keybind saved. The game must be restarted for the change to take effect.\""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "SetSceneVariableAsBoolean"
+              },
+              "parameters": [
+                "Binding",
+                "False"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"LoadKeybind\""
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -7530,7 +9529,7 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Menus::Menu::CheckOption"
+                "value": "SethUI::Menu::CheckOption"
               },
               "parameters": [
                 "Menu",
@@ -7638,7 +9637,7 @@
         },
         {
           "name": "Menu",
-          "type": "Menus::Menu"
+          "type": "SethUI::Menu"
         },
         {
           "name": "Platform",
@@ -8560,7 +10559,38 @@
                 "HintWakeUp"
               ],
               "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
             },
+            {
+              "type": {
+                "inverted": true,
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
             {
               "type": {
                 "inverted": false,
@@ -8569,7 +10599,7 @@
               "parameters": [
                 "",
                 "Audio\\Music\\4096__plagasul__rarexport-05.wav",
-                "6",
+                "1",
                 "yes",
                 "",
                 ""
@@ -9108,6 +11138,17 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "StopMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -9225,7 +11266,7 @@
       "oglZNear": 1,
       "r": 255,
       "standardSortMethod": true,
-      "stopSoundsOnStartup": true,
+      "stopSoundsOnStartup": false,
       "title": "Plague Forest Demo - Tutorial Chamber",
       "v": 255,
       "uiSettings": {
@@ -9240,7 +11281,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.36999999999999994
+        "zoomFactor": 0.16999999999999987
       },
       "objectsGroups": [],
       "variables": [],
@@ -10991,6 +13032,52 @@
             {
               "type": {
                 "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "Audio\\Music\\12691__connum__melancholic-interpretation-in-g.mp3",
+                "1",
+                "yes",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
                 "value": "BuiltinCommonInstructions::Or"
               },
               "parameters": [],
@@ -11297,14 +13384,6 @@
               "subInstructions": []
             }
           ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
           "events": []
         },
         {
@@ -11743,6 +13822,17 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "StopMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -11789,6 +13879,17 @@
                 "",
                 "\"TutorialWest\"",
                 ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "StopMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1"
               ],
               "subInstructions": []
             }
@@ -11899,7 +14000,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.31000000000000005
+        "zoomFactor": 0.19000000000000003
       },
       "objectsGroups": [
         {
@@ -13626,30 +15727,6 @@
         {
           "disabled": false,
           "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "PlayMusicCanal"
-              },
-              "parameters": [
-                "",
-                "Audio\\Music\\109409__bruno-ph__sadness-cosmo.mp3",
-                "6",
-                "",
-                "",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -13661,6 +15738,52 @@
           },
           "comment": "Entrance/Exit stuff below",
           "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "Audio\\Music\\109409__bruno-ph__sadness-cosmo.mp3",
+                "1",
+                "yes",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         },
         {
           "disabled": false,
@@ -14910,6 +17033,17 @@
             {
               "type": {
                 "inverted": false,
+                "value": "StopMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
                 "value": "Scene"
               },
               "parameters": [
@@ -15026,7 +17160,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.26999999999999974
+        "zoomFactor": 0.7700000000000001
       },
       "objectsGroups": [],
       "variables": [],
@@ -15152,8 +17286,8 @@
           "name": "ZoneFall",
           "persistentUuid": "f9ff964a-c886-432c-953f-ecae91e175ec",
           "width": 0,
-          "x": 192,
-          "y": 384,
+          "x": -352,
+          "y": -2688,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -15520,8 +17654,8 @@
           "name": "Player",
           "persistentUuid": "2225661c-dd0a-4c3d-9ae4-afaf25d53202",
           "width": 0,
-          "x": -960,
-          "y": -416,
+          "x": -512,
+          "y": -1536,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -15903,8 +18037,8 @@
           "locked": false,
           "name": "ZoneCheck",
           "persistentUuid": "96775fbc-73c3-493f-989d-e2a746b829f6",
-          "width": 256,
-          "x": -224,
+          "width": 320,
+          "x": -288,
           "y": -1376,
           "zOrder": 0,
           "numberProperties": [],
@@ -16712,6 +18846,52 @@
                 ""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "Audio\\Music\\109409__bruno-ph__sadness-cosmo.mp3",
+                "1",
+                "yes",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
             }
           ],
           "actions": [
@@ -16752,39 +18932,6 @@
             }
           ],
           "events": [
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Inventory::Has"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Keys\"",
-                    "\"KeyWest\""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "KeyWest",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
             {
               "disabled": false,
               "folded": false,
@@ -16864,7 +19011,7 @@
                   "parameters": [
                     "Player",
                     "=",
-                    "-128",
+                    "-512",
                     "=",
                     "-1344"
                   ],
@@ -17384,6 +19531,17 @@
                 "PlayerFrom",
                 "=",
                 "\"West\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "StopMusicCanal"
+              },
+              "parameters": [
+                "",
+                "1"
               ],
               "subInstructions": []
             },
@@ -18465,6 +20623,52 @@
             {
               "type": {
                 "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "MusicPlaying"
+              },
+              "parameters": [
+                "",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlayMusicCanal"
+              },
+              "parameters": [
+                "",
+                "Audio\\Music\\109409__bruno-ph__sadness-cosmo.mp3",
+                "1",
+                "yes",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
                 "value": "CollisionNP"
               },
               "parameters": [
@@ -19077,7 +21281,7 @@
               },
               "parameters": [
                 "",
-                "\"PolishHub\"",
+                "\"TutorialHub\"",
                 ""
               ],
               "subInstructions": []
@@ -19171,7 +21375,56 @@
   ],
   "externalEvents": [
     {
-      "associatedLayout": "MainMenu",
+      "associatedLayout": "PlatformTestA",
+      "lastChangeTimeStamp": 0,
+      "name": "Keybinder2",
+      "events": [
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "StartUpCheck",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"LoadKeybind\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        }
+      ]
+    },
+    {
+      "associatedLayout": "PlatformTestA",
       "lastChangeTimeStamp": 0,
       "name": "Keybinder",
       "events": [
@@ -19220,7 +21473,7 @@
       ]
     },
     {
-      "associatedLayout": "PlatformTest",
+      "associatedLayout": "PlatformTestA",
       "lastChangeTimeStamp": 0,
       "name": "PlayerEvents",
       "events": [
@@ -19241,18 +21494,6 @@
                 "",
                 "",
                 ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "TextObject::String"
-              },
-              "parameters": [
-                "UI_NoteStreak",
-                "=",
-                "\"\""
               ],
               "subInstructions": []
             }
@@ -19809,7 +22050,7 @@
       ]
     },
     {
-      "associatedLayout": "PolishTutorial",
+      "associatedLayout": "PlatformTestA",
       "lastChangeTimeStamp": 0,
       "name": "AnimationEvents",
       "events": [
@@ -20858,15 +23099,14 @@
             {
               "type": {
                 "inverted": false,
-                "value": "PlaySoundCanal"
+                "value": "PlaySound"
               },
               "parameters": [
                 "",
                 "Audio\\Glockenspiel\\325012__kilo-one-nine__toy-glock-03.wav",
                 "1",
                 "",
-                "",
-                "1"
+                ""
               ],
               "subInstructions": []
             },
@@ -20948,15 +23188,14 @@
             {
               "type": {
                 "inverted": false,
-                "value": "PlaySoundCanal"
+                "value": "PlaySound"
               },
               "parameters": [
                 "",
                 "Audio\\Glockenspiel\\325018__kilo-one-nine__toy-glock-05.wav",
                 "1",
                 "",
-                "",
-                "1"
+                ""
               ],
               "subInstructions": []
             },
@@ -21038,15 +23277,14 @@
             {
               "type": {
                 "inverted": false,
-                "value": "PlaySoundCanal"
+                "value": "PlaySound"
               },
               "parameters": [
                 "",
                 "Audio\\Glockenspiel\\325016__kilo-one-nine__toy-glock-07.wav",
                 "1",
                 "",
-                "",
-                "1"
+                ""
               ],
               "subInstructions": []
             },
@@ -21124,7 +23362,7 @@
       ]
     },
     {
-      "associatedLayout": "PolishTutorial",
+      "associatedLayout": "PlatformTestA",
       "lastChangeTimeStamp": 0,
       "name": "InterfaceEvents",
       "events": [
@@ -23404,6 +25642,586 @@
       ]
     },
     {
+      "author": "",
+      "description": "",
+      "extensionNamespace": "",
+      "fullName": "",
+      "helpPath": "",
+      "iconUrl": "",
+      "name": "SethUI",
+      "previewIconUrl": "",
+      "shortDescription": "",
+      "version": "",
+      "tags": [],
+      "dependencies": [],
+      "eventsFunctions": [
+        {
+          "description": "Stop music on channels 0 - 9",
+          "fullName": "Stop music on all channels",
+          "functionType": "Action",
+          "name": "StopMusic",
+          "private": false,
+          "sentence": "Stop music on all channels.",
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "StopMusicCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "0"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "StopMusicCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "1"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "StopMusicCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "2"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ],
+          "parameters": [],
+          "objectGroups": []
+        }
+      ],
+      "eventsBasedBehaviors": [
+        {
+          "description": "",
+          "fullName": "Menu",
+          "name": "Menu",
+          "objectType": "TextObject::Text",
+          "eventsFunctions": [
+            {
+              "description": "",
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onCreated",
+              "private": false,
+              "sentence": "",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Object",
+                        "MenuIndex",
+                        "=",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": [
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "SethUI::Menu::SwitchToCurrent"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "Object.VariableString(MenuIndex)"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "TextObject::Text",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "SethUI::Menu",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Switch to current (Cycle Next/Prev do this automatically.)",
+              "fullName": "SwitchToCurrent",
+              "functionType": "Action",
+              "name": "SwitchToCurrent",
+              "private": false,
+              "sentence": "Switch to _PARAM0_'s current option.",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": "\nconst menu = objects[0];\nconst behavior = menu.getBehavior(eventsFunctionContext.getBehaviorName(\"Behavior\"));\nconst index = menu.getVariables().get(\"MenuIndex\").getAsNumber();\nconst options = behavior._getMenuOptions().split(\",\");\n\nmenu.getVariables().get(\"MenuLength\").setNumber(options.length);\nmenu.getVariables().get(\"MenuCurrent\").setString(options[index]);\n\nvar output = \"\";\nfor(var i = 0; i < options.length; i++)\n{\n    if (i == index)\n        output += options[i] + \"\\n\";\n    else\n        output += \"-  \" + options[i] + \"\\n\";\n}\n\nmenu.getVariables().get(\"MenuText\").setString(output);",
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "TextObject::String"
+                      },
+                      "parameters": [
+                        "Object",
+                        "=",
+                        "Object.VariableString(MenuText)"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "TextObject::Text",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "SethUI::Menu",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Cycle Previous",
+              "fullName": "Cycle Previous",
+              "functionType": "Action",
+              "name": "CyclePrev",
+              "private": false,
+              "sentence": "Cycle to _PARAM0_'s previous option.",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Object",
+                        "MenuIndex",
+                        ">",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Object",
+                        "MenuIndex",
+                        "-",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SethUI::Menu::SwitchToCurrent"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "Object.VariableString(MenuIndex)"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "TextObject::Text",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "SethUI::Menu",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Cycle Next",
+              "fullName": "Cycle Next",
+              "functionType": "Action",
+              "name": "CycleNext",
+              "private": false,
+              "sentence": "Cycle to _PARAM0_'s next option.",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjet"
+                      },
+                      "parameters": [
+                        "Object",
+                        "MenuIndex",
+                        "<",
+                        "Object.Variable(MenuLength) - 1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "ModVarObjet"
+                      },
+                      "parameters": [
+                        "Object",
+                        "MenuIndex",
+                        "+",
+                        "1"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SethUI::Menu::SwitchToCurrent"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "Object.VariableString(MenuIndex)"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "TextObject::Text",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "SethUI::Menu",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return current option",
+              "fullName": "Return current option",
+              "functionType": "Expression",
+              "name": "GetOption",
+              "private": false,
+              "sentence": "_PARAM0_'s current option is _PARAM2_",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetReturnString"
+                      },
+                      "parameters": [
+                        "Object.VariableString(MenuCurrent)"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "TextObject::Text",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "SethUI::Menu",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Check the current option",
+              "fullName": "Check the current option",
+              "functionType": "Condition",
+              "name": "CheckOption",
+              "private": false,
+              "sentence": "_PARAM0_'s current option is _PARAM2_",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjetTxt"
+                      },
+                      "parameters": [
+                        "Object",
+                        "MenuCurrent",
+                        "=",
+                        "GetArgumentAsString(\"Option\")"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetReturnBoolean"
+                      },
+                      "parameters": [
+                        "True"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "VarObjetTxt"
+                      },
+                      "parameters": [
+                        "Object",
+                        "MenuCurrent",
+                        "!=",
+                        "GetArgumentAsString(\"Option\")"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetReturnBoolean"
+                      },
+                      "parameters": [
+                        "False"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "TextObject::Text",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "SethUI::Menu",
+                  "type": "behavior"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Option to check against",
+                  "longDescription": "",
+                  "name": "Option",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "string"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "Option A,Choice B,Selection C",
+              "type": "String",
+              "label": "Options - the options that are available in this menu. Seperate by commas.",
+              "description": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "MenuOptions"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "author": "4ian",
       "description": "Behaviors to animate Tiled Sprite objects in the background, following the camera with a parallax effect.",
       "extensionNamespace": "",
@@ -24937,531 +27755,6 @@
               "extraInformation": [],
               "hidden": true,
               "name": "Timecheck"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "author": "",
-      "description": "",
-      "extensionNamespace": "",
-      "fullName": "",
-      "helpPath": "",
-      "iconUrl": "",
-      "name": "Menus",
-      "previewIconUrl": "",
-      "shortDescription": "",
-      "version": "",
-      "tags": [],
-      "dependencies": [],
-      "eventsFunctions": [],
-      "eventsBasedBehaviors": [
-        {
-          "description": "",
-          "fullName": "Menu",
-          "name": "Menu",
-          "objectType": "TextObject::Text",
-          "eventsFunctions": [
-            {
-              "description": "",
-              "fullName": "",
-              "functionType": "Action",
-              "name": "onCreated",
-              "private": false,
-              "sentence": "",
-              "events": [
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ModVarObjet"
-                      },
-                      "parameters": [
-                        "Object",
-                        "MenuIndex",
-                        "=",
-                        "0"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "events": [
-                    {
-                      "disabled": false,
-                      "folded": false,
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [],
-                      "actions": [
-                        {
-                          "type": {
-                            "inverted": false,
-                            "value": "Menus::Menu::SwitchToCurrent"
-                          },
-                          "parameters": [
-                            "Object",
-                            "Behavior",
-                            "Object.VariableString(MenuIndex)"
-                          ],
-                          "subInstructions": []
-                        }
-                      ],
-                      "events": []
-                    }
-                  ]
-                }
-              ],
-              "parameters": [
-                {
-                  "codeOnly": false,
-                  "defaultValue": "",
-                  "description": "Object",
-                  "longDescription": "",
-                  "name": "Object",
-                  "optional": false,
-                  "supplementaryInformation": "TextObject::Text",
-                  "type": "object"
-                },
-                {
-                  "codeOnly": false,
-                  "defaultValue": "",
-                  "description": "Behavior",
-                  "longDescription": "",
-                  "name": "Behavior",
-                  "optional": false,
-                  "supplementaryInformation": "Menus::Menu",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Switch to current (Cycle Next/Prev do this automatically.)",
-              "fullName": "SwitchToCurrent",
-              "functionType": "Action",
-              "name": "SwitchToCurrent",
-              "private": false,
-              "sentence": "Switch to _PARAM0_'s current option.",
-              "events": [
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [],
-                  "events": []
-                },
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::JsCode",
-                  "inlineCode": "\nconst menu = objects[0];\nconst behavior = menu.getBehavior(eventsFunctionContext.getBehaviorName(\"Behavior\"));\nconst index = menu.getVariables().get(\"MenuIndex\").getAsNumber();\nconst options = behavior._getMenuOptions().split(\",\");\n\nmenu.getVariables().get(\"MenuLength\").setNumber(options.length);\nmenu.getVariables().get(\"MenuCurrent\").setString(options[index]);\n\nvar output = \"\";\nfor(var i = 0; i < options.length; i++)\n{\n    if (i == index)\n        output += options[i] + \"\\n\";\n    else\n        output += \"-  \" + options[i] + \"\\n\";\n}\n\nmenu.getVariables().get(\"MenuText\").setString(output);",
-                  "parameterObjects": "Object",
-                  "useStrict": true,
-                  "eventsSheetExpanded": false
-                },
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "TextObject::String"
-                      },
-                      "parameters": [
-                        "Object",
-                        "=",
-                        "Object.VariableString(MenuText)"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "events": []
-                }
-              ],
-              "parameters": [
-                {
-                  "codeOnly": false,
-                  "defaultValue": "",
-                  "description": "Object",
-                  "longDescription": "",
-                  "name": "Object",
-                  "optional": false,
-                  "supplementaryInformation": "TextObject::Text",
-                  "type": "object"
-                },
-                {
-                  "codeOnly": false,
-                  "defaultValue": "",
-                  "description": "Behavior",
-                  "longDescription": "",
-                  "name": "Behavior",
-                  "optional": false,
-                  "supplementaryInformation": "Menus::Menu",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Cycle Previous",
-              "fullName": "Cycle Previous",
-              "functionType": "Action",
-              "name": "CyclePrev",
-              "private": false,
-              "sentence": "Cycle to _PARAM0_'s previous option.",
-              "events": [
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "VarObjet"
-                      },
-                      "parameters": [
-                        "Object",
-                        "MenuIndex",
-                        ">",
-                        "0"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ModVarObjet"
-                      },
-                      "parameters": [
-                        "Object",
-                        "MenuIndex",
-                        "-",
-                        "1"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "events": []
-                },
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Menus::Menu::SwitchToCurrent"
-                      },
-                      "parameters": [
-                        "Object",
-                        "Behavior",
-                        "Object.VariableString(MenuIndex)"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "events": []
-                }
-              ],
-              "parameters": [
-                {
-                  "codeOnly": false,
-                  "defaultValue": "",
-                  "description": "Object",
-                  "longDescription": "",
-                  "name": "Object",
-                  "optional": false,
-                  "supplementaryInformation": "TextObject::Text",
-                  "type": "object"
-                },
-                {
-                  "codeOnly": false,
-                  "defaultValue": "",
-                  "description": "Behavior",
-                  "longDescription": "",
-                  "name": "Behavior",
-                  "optional": false,
-                  "supplementaryInformation": "Menus::Menu",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Cycle Next",
-              "fullName": "Cycle Next",
-              "functionType": "Action",
-              "name": "CycleNext",
-              "private": false,
-              "sentence": "Cycle to _PARAM0_'s next option.",
-              "events": [
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "VarObjet"
-                      },
-                      "parameters": [
-                        "Object",
-                        "MenuIndex",
-                        "<",
-                        "Object.Variable(MenuLength) - 1"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "ModVarObjet"
-                      },
-                      "parameters": [
-                        "Object",
-                        "MenuIndex",
-                        "+",
-                        "1"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "events": []
-                },
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "Menus::Menu::SwitchToCurrent"
-                      },
-                      "parameters": [
-                        "Object",
-                        "Behavior",
-                        "Object.VariableString(MenuIndex)"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "events": []
-                }
-              ],
-              "parameters": [
-                {
-                  "codeOnly": false,
-                  "defaultValue": "",
-                  "description": "Object",
-                  "longDescription": "",
-                  "name": "Object",
-                  "optional": false,
-                  "supplementaryInformation": "TextObject::Text",
-                  "type": "object"
-                },
-                {
-                  "codeOnly": false,
-                  "defaultValue": "",
-                  "description": "Behavior",
-                  "longDescription": "",
-                  "name": "Behavior",
-                  "optional": false,
-                  "supplementaryInformation": "Menus::Menu",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Return current option",
-              "fullName": "Return current option",
-              "functionType": "Expression",
-              "name": "GetOption",
-              "private": false,
-              "sentence": "_PARAM0_'s current option is _PARAM2_",
-              "events": [
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "SetReturnString"
-                      },
-                      "parameters": [
-                        "Object.VariableString(MenuCurrent)"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "events": []
-                }
-              ],
-              "parameters": [
-                {
-                  "codeOnly": false,
-                  "defaultValue": "",
-                  "description": "Object",
-                  "longDescription": "",
-                  "name": "Object",
-                  "optional": false,
-                  "supplementaryInformation": "TextObject::Text",
-                  "type": "object"
-                },
-                {
-                  "codeOnly": false,
-                  "defaultValue": "",
-                  "description": "Behavior",
-                  "longDescription": "",
-                  "name": "Behavior",
-                  "optional": false,
-                  "supplementaryInformation": "Menus::Menu",
-                  "type": "behavior"
-                }
-              ],
-              "objectGroups": []
-            },
-            {
-              "description": "Check the current option",
-              "fullName": "Check the current option",
-              "functionType": "Condition",
-              "name": "CheckOption",
-              "private": false,
-              "sentence": "_PARAM0_'s current option is _PARAM2_",
-              "events": [
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "VarObjetTxt"
-                      },
-                      "parameters": [
-                        "Object",
-                        "MenuCurrent",
-                        "=",
-                        "GetArgumentAsString(\"Option\")"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "SetReturnBoolean"
-                      },
-                      "parameters": [
-                        "True"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "events": []
-                },
-                {
-                  "disabled": false,
-                  "folded": false,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "VarObjetTxt"
-                      },
-                      "parameters": [
-                        "Object",
-                        "MenuCurrent",
-                        "!=",
-                        "GetArgumentAsString(\"Option\")"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "inverted": false,
-                        "value": "SetReturnBoolean"
-                      },
-                      "parameters": [
-                        "False"
-                      ],
-                      "subInstructions": []
-                    }
-                  ],
-                  "events": []
-                }
-              ],
-              "parameters": [
-                {
-                  "codeOnly": false,
-                  "defaultValue": "",
-                  "description": "Object",
-                  "longDescription": "",
-                  "name": "Object",
-                  "optional": false,
-                  "supplementaryInformation": "TextObject::Text",
-                  "type": "object"
-                },
-                {
-                  "codeOnly": false,
-                  "defaultValue": "",
-                  "description": "Behavior",
-                  "longDescription": "",
-                  "name": "Behavior",
-                  "optional": false,
-                  "supplementaryInformation": "Menus::Menu",
-                  "type": "behavior"
-                },
-                {
-                  "codeOnly": false,
-                  "defaultValue": "",
-                  "description": "Option to check against",
-                  "longDescription": "",
-                  "name": "Option",
-                  "optional": false,
-                  "supplementaryInformation": "",
-                  "type": "string"
-                }
-              ],
-              "objectGroups": []
-            }
-          ],
-          "propertyDescriptors": [
-            {
-              "value": "Option A,Choice B,Selection C",
-              "type": "String",
-              "label": "Options - the options that are available in this menu. Seperate by commas.",
-              "description": "",
-              "extraInformation": [],
-              "hidden": false,
-              "name": "MenuOptions"
             }
           ]
         }
